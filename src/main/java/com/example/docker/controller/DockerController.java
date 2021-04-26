@@ -8,6 +8,6 @@ public class DockerController {
 
     @RequestMapping("/hello")
     public String add(){
-        return "hello word 今天在技术分析上面学到了很多";
+        return "今天上课收获很多，占用的大家时间也很不好意思";
         }
 }
